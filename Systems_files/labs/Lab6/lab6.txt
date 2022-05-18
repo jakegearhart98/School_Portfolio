@@ -1,0 +1,4 @@
+driver: jgearhar
+navigator: jalpizar
+
+6. You would use fgets to get input line by line

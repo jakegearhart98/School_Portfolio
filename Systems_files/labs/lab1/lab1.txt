@@ -1,0 +1,4 @@
+driver: jgearhar
+navigator: jgearhar
+
+Sent email saying I started lab early, do not have a partner

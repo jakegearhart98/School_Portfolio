@@ -1,0 +1,22 @@
+
+Between point A-B
+	6. A larger chunk of memory is being allocated (*bigger) using calloc.
+	Calloc initializes the bytes to 0 within that chunk of memory, malloc doesn't initialize
+	the bytes.
+	
+	Call for loop is swapping the elements from smaller array into larger.
+	
+	int *tmp = array is assigning the pointer tmp to the initial array value (&a[0])
+	
+	array is being set equal to bigger
+	
+	bigger = first item in array becuase set equal to *tmp
+	
+	bigger deallocated
+	
+	
+	7. When ran it says segmentation fault(core dumped).
+	This occurs because there is no user input from the command prompt, so the pointer
+	*argv returns null and theres no error handling for it
+	
+	

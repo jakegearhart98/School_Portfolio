@@ -1,0 +1,1 @@
+This version is a complete game that fulfills the minimal project requirements.

@@ -1,0 +1,1 @@
+This version separates the user interface from the board representation. It also generalizes the peek() and toString() methods to a formatBoard() method. formatBoard() adds row and column numbers to make things a bit easier on the user.
